@@ -4,7 +4,7 @@
   "description": "A fictional e-commerce website for covid-19 items",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "author": "aladin feratovic",
   "license": "ISC",
