@@ -1,0 +1,42 @@
+{
+    "popular": [
+        {
+            "id": 1,
+            "name": "Pack of Disposable Masks",
+            "price": 2999,
+            "imgName": "masks.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Box of 100 Latex Gloves",
+            "price": 1999,
+            "imgName": "gloves.jpg"
+        },
+        {
+            "id": 3,
+            "name": "6-Pack of Hand Sanitizer",
+            "price": 1499,
+            "imgName": "sanitizer.jpg"
+        },
+        {
+            "id": 1,
+            "name": "2-Pack of Disinfectant Spray",
+            "price": 1999,
+            "imgName": "lysol.jpg"
+        }
+    ],
+    "new": [
+        {
+            "id": 5,
+            "name": "Water Humidifier",
+            "price": 4999,
+            "imgName": "humid.jpg"
+        },
+        {
+            "id": 6,
+            "name": "At-Home Test Kit",
+            "price": 3999,
+            "imgName": "kit.jpg"
+        }
+    ]
+}
